@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+
+# Videos (Excluded as requested)
+*.mp4
+*.mkv
+*.avi
+*.mov
