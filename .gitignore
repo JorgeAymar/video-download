@@ -15,3 +15,14 @@ __pycache__/
 *.mkv
 *.avi
 *.mov
+*.webm
+
+# Secrets / credentials
+.env
+*.env
+
+# Personal session artifacts & debug dumps (may contain account data)
+post_login.txt
+extracted_url.txt
+*.html
+*.png
